@@ -1,4 +1,4 @@
-﻿## G2A-VReID
+## G2A-VReID
 
 ### Introduction
 G2A-VReID is a large-scale video-based pedestrain Re-Identification datasets, constructed by National Engineering Laboratory for Integrated 
@@ -12,8 +12,7 @@ G2A-VReID dataset has the following characteristics:
 4) Huge difference in resolution.
 
 ### Privacy Protection
-We strictly adhere to local government privacy protection and data collection 
-protocols and make our best efforts to protect privacy of pedestrians. 
+We try our best to protect the privacy of pedestrians from the following aspects:
 1) we make our best efforts to inform pesdestrains about data collection, 
 cordons are used to mark data collection areas and notifications (including ) are 
 post near the sites in collection process. 
@@ -33,7 +32,8 @@ and agrees to observe the restrictions.
 
 ### Request For G2A-VReID
 The Agreement is available at [link](https://drive.google.com/file/d/1YlGf1pGWNbiE_oS-HfZIPBx4BjtHDUFU/view?usp=sharing), please download the file and read all agreements carefully. 
-Sign the relevant consent forms and send the agreement to luowenlong@mail.nwpu.edu.com or szzhang@nwpu.deu.cn. 
+Sign the relevant consent forms and send the agreement to szzhang@nwpu.deu.cn, 
+dcheng@xidian.edu.cn or luowenlong@mail.nwpu.edu.com.
 We will get back to you with the dataset download link as soon as we review the Agreement.
 
 ### Citaion
@@ -44,4 +44,5 @@ We will get back to you with the dataset download link as soon as we review the 
  year   = {2024},
  booktitle = {ECCV}
 }
+```
 ```
