@@ -26,16 +26,12 @@ clear face of pedestrains, and the masking them by mosaic (RGB:[96, 96, 96]). Me
 and mask them by manual.
 ![img_1.png](./images/img_1.png)
 3) Finally, the dataset will be licensed for non-profit academic 
-research only, any researcher who requests the G2A-VReID dataset must sign agreement 
-and agrees to observe the restrictions. 
+research only, any researcher who downloads the G2A-VReID dataset must agree to observe the restrictions. 
 ![img.png](images/agreement.png)
 
 ### Request For G2A-VReID
-The Agreement is available at [link](https://drive.google.com/file/d/1YlGf1pGWNbiE_oS-HfZIPBx4BjtHDUFU/view?usp=sharing), please download the file and read all agreements carefully. 
-Sign the relevant consent forms and send the agreement to szzhang@nwpu.deu.cn, 
-dcheng@xidian.edu.cn or luowenlong@mail.nwpu.edu.com.
-We will get back to you with the dataset download link as soon as we review the Agreement.
-
+The License is available at [link](https://drive.google.com/file/d/1YlGf1pGWNbiE_oS-HfZIPBx4BjtHDUFU/view?usp=drive_link), please download the file and read all agreements carefully. 
+Anyone who downloads The G2A-VReID is deemed to agree to the above agreement. The dataset is available at [Link](https://drive.google.com/file/d/1vPS-Xc1gBNc8Q40QZ0FaUWeYRkKsndeL/view?usp=drive_link).
 ### Citaion
 ```
 @inproceedings{vsla-clip,
