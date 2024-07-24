@@ -31,7 +31,7 @@ research only, any researcher who downloads the G2A-VReID dataset must agree to 
 
 ### Request For G2A-VReID
 The License is available at [link](https://drive.google.com/file/d/1YlGf1pGWNbiE_oS-HfZIPBx4BjtHDUFU/view?usp=drive_link), please download the file and read all agreements carefully. 
-Anyone who downloads The G2A-VReID is deemed to agree to the above agreement. The dataset is available at [Link](https://drive.google.com/file/d/1vPS-Xc1gBNc8Q40QZ0FaUWeYRkKsndeL/view?usp=drive_link).
+Anyone who downloads The G2A-VReID is deemed to agree to the above agreement. The dataset is available at [Link](https://drive.google.com/file/d/1vPS-Xc1gBNc8Q40QZ0FaUWeYRkKsndeL/view?usp=sharing).
 ### Citaion
 ```
 @inproceedings{vsla-clip,
