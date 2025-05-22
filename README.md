@@ -1,4 +1,4 @@
-## G2A-VReID
+## G2A-VReID & G2A-VReID.v2
 
 ### Introduction
 G2A-VReID is a large-scale video-based pedestrain Re-Identification datasets, constructed by National Engineering Laboratory for Integrated 
@@ -10,6 +10,14 @@ G2A-VReID dataset has the following characteristics:
 2) Large number of annotated identities;
 3) Rich outdoor scenarios;
 4) Huge difference in resolution.
+
+G2A-VReID.v2 is an extended large-scale video-based pedestrian Re-Identification dataset. Compared to its predecessor, G2A-VReID.v2 significantly expands the dataset scale and complexity, containing 5,605 person IDs, 2.54 million images, and 11,282 tracklets, making it one of the largest publicly available video ReID datasets to date.
+The dataset possesses the following key characteristics:
+1) Extreme cross-viewpoint variations, including top-down and oblique angles from UAVs and conventional ground-level views;
+2) Large-scale identity and video tracklet annotations, more than doubling the size of the original G2A-VReID;
+3) Rich environmental diversity, covering 13 outdoor scenes such as construction sites, plazas, flyovers, and grasslands;
+4) Wide resolution disparity, especially under high-altitude UAV views;
+5) Multi-season and day-night coverage, capturing diverse lighting, weather, and appearance conditions across time.
 
 ### Privacy Protection
 We try our best to protect the privacy of pedestrians from the following aspects:
@@ -29,9 +37,9 @@ and mask them by manual.
 research only, any researcher who downloads the G2A-VReID dataset must agree to observe the restrictions. 
 ![img.png](images/agreement.png)
 
-### Request For G2A-VReID
+### Request For G2A-VReID and G2A-VReID.v2
 The License is available at [link](https://drive.google.com/file/d/1YlGf1pGWNbiE_oS-HfZIPBx4BjtHDUFU/view?usp=sharing), please download the file and read all agreements carefully. 
-Anyone who downloads The G2A-VReID is deemed to agree to the above agreement. The dataset is available at [Link](https://drive.google.com/file/d/1vPS-Xc1gBNc8Q40QZ0FaUWeYRkKsndeL/view?usp=sharing).
+Anyone who downloads The G2A-VReID is deemed to agree to the above agreement. G2A-VReID is available at [Link](https://drive.google.com/file/d/1vPS-Xc1gBNc8Q40QZ0FaUWeYRkKsndeL/view?usp=sharing). G2A-VReID.v2 is available at [Link](https://drive.google.com/drive/folders/1XIoN1keopgZKRgEBXzUWdn1Lbe6jzTmg?usp=drive_link).
 ### Citaion
 ```
 @inproceedings{vsla-clip,
