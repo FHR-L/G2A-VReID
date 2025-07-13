@@ -41,11 +41,13 @@ research only, any researcher who downloads the G2A-VReID dataset must agree to 
 G2A-VReID is available at [Link](https://drive.google.com/file/d/1vPS-Xc1gBNc8Q40QZ0FaUWeYRkKsndeL/view). G2A-VReID.v2 is available at [Link](https://drive.google.com/file/d/15pkbcPP5dm4G7lZGpPYG8tSvF8zQ5USQ/view?usp=sharing). If the link becomes invalid, please feel free to contact luowenlong@mail.nwpu.edu.cn.
 ### Citaion
 ```
-@inproceedings{vsla-clip,
- author = {S. Zhang and W. Luo and D. Cheng and Q. Yang and L. Ran and Y. Xing and Y. Zhang},
- title  = {Cross-Platform Video Person ReID: A New Benchmark Dataset and Adaptation Approach},
- year   = {2024},
- booktitle = {ECCV}
+@inproceedings{zhang2024cross,
+  title={Cross-platform video person reid: A new benchmark dataset and adaptation approach},
+  author={Zhang, Shizhou and Luo, Wenlong and Cheng, De and Yang, Qingchun and Ran, Lingyan and Xing, Yinghui and Zhang, Yanning},
+  booktitle={European Conference on Computer Vision},
+  pages={270--287},
+  year={2024},
+  organization={Springer}
 }
 ```
 ```
